@@ -1,0 +1,27 @@
+.app {
+  padding: 10px;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+.overall {
+  flex: 0 0 70px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.sum-and-period {
+  margin: 0;
+}
+
+.today {
+  border-top: 1px solid rgba(221, 221, 221, 0.3);
+  border-bottom: 1px solid rgba(221, 221, 221, 0.3);
+}
+
+.today-sum {
+
+  
+}
